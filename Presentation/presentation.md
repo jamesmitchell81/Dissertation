@@ -21,9 +21,6 @@ slidenumbers: false
 ---
 
 
-
----
-
 ### [fit] The process of designing a typeface has a high bar for entry
 ### [fit] taking many hours to create 
 ### [fit] and many more hours to master.
@@ -111,6 +108,7 @@ slidenumbers: false
 # [fit] Research materials.
 
 ---
+
 #### Research Development and Implementation.
 
 # [fit] Background Research
@@ -239,10 +237,29 @@ Gonzalez and Woods, 2002
 
 ---
 
-
-# Critical Appraisal
+# [fit] Critical 
+# [fit] Appraisal
 
 ---
 
-## Concluding Recommendations.
+# [fit] 1. Delay in establishing 
+# [fit] the methodology for 
+# [fit] research and development.
+
+---
+
+# [fit] 2. The incorrect order 
+# [fit] of research focus.
+
+---
+
+# [fit] 2. The incorrect order 
+# [fit] of research focus.
+
+---
+
+# [fit] 3. Inability to correctly establish 
+# [fit] the problem prior 
+# [fit] to implementation of some features.
+
 
